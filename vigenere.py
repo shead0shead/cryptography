@@ -1,8 +1,11 @@
 alphabet = 'abcdefghijklmnopqrstuvwxyz'
 
+# Secret word
 secret = 'Chair'
+# Your text
 text = 'Example'
 
+# Do not touch it
 output = ''
 
 for i in range(len(text)):
