@@ -1,7 +1,3 @@
-# (index1 + 1) + (index2 + 1) - 2 = index3
-# index1 + index2 + 2 - 2 = index3
-# index1 + index2 = index3
-
 alphabet = 'abcdefghijklmnopqrstuvwxyz'
 
 secret = 'Chair'
