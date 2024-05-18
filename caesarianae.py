@@ -2,9 +2,9 @@ alphabet = 'abcdefghijklmnopqrstuvwxyz'
 
 # 1 - Encrypt 2 - Decrypt
 type = 1
-# Character shift step
+# Shift step
 step = 3
-# Write your text here
+# Your text
 text = 'Example'
 
 # Do not touch it
